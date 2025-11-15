@@ -1,1 +1,6 @@
-
+Crie uma descrição curta e chamativa para o ebook "Futuro do Trabalho: Humanos + IA". 
+Deve destacar:
+- Tema do ebook
+- Que foi criado com auxílio de IA
+- Curiosidade ou diferencial para atrair leitores
+Máximo de 2 frases.
