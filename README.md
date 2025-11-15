@@ -13,7 +13,7 @@ O conteúdo discute como a tecnologia pode transformar a forma como trabalhamos,
 - **ebooks/**  
   - `futuro_do_trabalho_humanos_ia.pdf` → versão em PDF do ebook, com **espaços reservados para imagens** e sugestões visuais em cada seção.
 
-- **imagens/** *(opcional)*  
+- **imagens/**
   Pasta destinada a futuras imagens sugeridas no ebook, caso queira adicionar posteriormente.
 
 ---
