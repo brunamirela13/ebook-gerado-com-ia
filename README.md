@@ -1,19 +1,36 @@
-# Ebook: Futuro do Trabalho — Humanos + IA
+# Ebook: Futuro do Trabalho – Humanos + IA
 
-Este projeto é um ebook criado com auxílio de Inteligência Artificial sobre como o futuro do trabalho será moldado pela colaboração entre humanos e IA.  
-O objetivo é explorar profissões em transformação, desafios, benefícios e dicas práticas para se preparar para esse novo cenário.
+Este projeto apresenta um **ebook em PDF** explorando a colaboração entre humanos e Inteligência Artificial no futuro do trabalho.  
+O conteúdo discute como a tecnologia pode transformar a forma como trabalhamos, mantendo as habilidades e emoções humanas no centro.
 
-## Estrutura do Repositório
+---
 
-- **prompts/** → contém os prompts usados para gerar o ebook e imagens  
-- **ebook/** → contém o ebook final em PDF e imagens ilustrativas  
-- **README.md** → explicação do projeto e link do artigo  
+## 📂 Estrutura do Repositório
 
-## Link do Artigo
-Leia o artigo completo [aqui](COLE_O_LINK_DO_ARTIGO_AQUI)
+- **prompts.txt**  
+  Contém todos os prompts utilizados para gerar o conteúdo do ebook.
 
-## Ferramentas Usadas
-- ChatGPT → geração do conteúdo do ebook e prompts  
-- DALL·E / MidJourney → criação de imagens ilustrativas  
-- Google Docs / Canva → formatação do ebook  
-- GitHub → versionamento do projeto
+- **ebooks/**  
+  - `futuro_do_trabalho_humanos_ia.pdf` → versão em PDF do ebook, com **espaços reservados para imagens** e sugestões visuais em cada seção.
+
+- **imagens/** *(opcional)*  
+  Pasta destinada a futuras imagens sugeridas no ebook, caso queira adicionar posteriormente.
+
+---
+
+## 🎯 Tema
+
+**Futuro do Trabalho: Humanos + IA**  
+
+- Como humanos e IA podem trabalhar juntos.  
+- Benefícios e desafios da automação.  
+- Habilidades humanas essenciais que complementam a IA.  
+- Tendências para o mercado de trabalho nos próximos anos.
+
+---
+
+## 📝 Observações
+
+- O PDF possui **espaços reservados e sugestões de imagens** para cada seção.  
+- Todo o conteúdo do ebook foi gerado utilizando prompts descritos no arquivo `prompts.txt`.  
+- Você pode futuramente inserir imagens reais ou editar o PDF.
